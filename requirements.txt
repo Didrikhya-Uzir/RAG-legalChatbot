@@ -1,4 +1,7 @@
 mistralai
 pandas
 langchain_community
+langchain_huggingface
+langchain_chroma
+langchain_text_splitters
 -e .
