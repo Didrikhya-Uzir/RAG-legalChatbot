@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 
 Legalyzer.egg-info/
+artifacts/chroma_db/
