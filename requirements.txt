@@ -1,3 +1,4 @@
 mistralai
 pandas
+langchain_community
 -e .
