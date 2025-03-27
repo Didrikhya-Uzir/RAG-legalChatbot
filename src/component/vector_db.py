@@ -32,7 +32,7 @@ class VectorDb:
                 embedding= self.VectorDbObj.embedding_model,
                 persist_directory= self.VectorDbObj.persist_directory  # This automatically saves the DB
             )
-            return self.vectorstore
+            return None
         except Exception as e:
             logging.info(f"Error occured in VectorDbSave method. Error -- {e}")
             raise CustomException(e,sys)
