@@ -4,4 +4,8 @@ langchain_community
 langchain_huggingface
 langchain_chroma
 langchain_text_splitters
+langchain-mistralai
+dotenv
+langchain
+langchain_core
 -e .
